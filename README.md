@@ -1,10 +1,20 @@
 ### Hi there 👋
-[image]()
+<p align="center">
+<img
+  src="Bg.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0  auto; max-width: 100%">
+  </p>
+  
 ## Warm welcome 
 want to be member of this community email us.
+
 ```
 guide2beginners101@gmail.com
 ```
+
+
 ## Start Contributing 🛠 in
 
 | Technology | Directory or File | Label | What to Contribute?|
