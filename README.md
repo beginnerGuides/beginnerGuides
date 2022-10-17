@@ -33,7 +33,7 @@ guide2beginners101@gmail.com
 <h1 align="center">
     Roadmap
 </h1>
-
+<!-- 
 <p align="center">
   <a href="https://github.com/askbuddie/roadmap/stargazers" target="_blank">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/askbuddie/roadmap?style=for-the-badge" />
@@ -44,7 +44,7 @@ guide2beginners101@gmail.com
   <br/>
   
 <p align="center"><b>Community curated roadmaps and cheatsheets for various domains.</b></p>
-</p>
+</p> -->
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ guide2beginners101@gmail.com
 - [DSA](/DSA/README.md)
 - [Java](/Java/)
   - [Core Java](/Java/Core%20Java/Readme.md)
-- [Python}()
+- [Python]()
 - [web security]()
 - [DBMS]()
 - [OS]()
